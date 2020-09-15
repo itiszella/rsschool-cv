@@ -2,7 +2,8 @@
 ## Contacts:  
 * telegram -  [rskotenkov](//https://t.me/rskotenkov)
 * email - itiszella@gmail.com
-* GitHub - [itiszella](//https://github.com/itiszella)
+* GitHub - [itiszella](//https://github.com/itiszella)  
+* Discord - Roman Shalupenko
 ## About me:  
 I have no experience in Front-End Development. My goal is employment in an IT-company. I like to learn something new and self-develop. Hardworking.  
 ## Skills:  
