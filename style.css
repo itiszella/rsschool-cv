@@ -12,6 +12,10 @@ body {
   margin: 0 auto;
 }
 
+.myfoto {
+  width: 220px;
+}
+
 .link {
   text-decoration: none;
   color: black;
