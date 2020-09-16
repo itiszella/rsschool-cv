@@ -1,0 +1,23 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 1.6rem;
+}
+
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.education {
+  display: flex;
+  flex-direction: column;
+}
